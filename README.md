@@ -1,5 +1,5 @@
 # Air-Traffic-Control
-A basic CRUD based Visualization of Air Traffic Control and Management
+A CRUD based Visualization of Air Traffic Control and Management
 Technologies used:
 
 -> HTML(Front-End)
